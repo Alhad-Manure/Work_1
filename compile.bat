@@ -1,0 +1,1 @@
+g++ checkers.cpp -o check.exe
